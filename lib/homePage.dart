@@ -29,6 +29,7 @@ class _HomepageState extends State<Homepage> {
     );
   }
 }
+
 class BirinchiOyna extends StatefulWidget {
   const BirinchiOyna({super.key});
 
@@ -218,7 +219,6 @@ class _BirinchiOynaState extends State<BirinchiOyna> {
   }
 }
 
-// ================== 2-OYNA ==================
 class IkkinchiOyna extends StatefulWidget {
   const IkkinchiOyna({super.key});
 
